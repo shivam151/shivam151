@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam151&label=Profile%20views&color=0e75b6&style=flat" alt="shivam151" /> </p>
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **Spring framework**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-frontend-one-tau.vercel.app/](https://portfolio-frontend-one-tau.vercel.app/)
 
