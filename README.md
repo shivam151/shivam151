@@ -157,19 +157,6 @@ me.say_hi()
 </details>
 
 <details>
-<summary><b>📑 Enterprise AI (RFP & Discovery)</b></summary>
-<br>
-
-<p align="center">
-  <a href="https://github.com/shivam151/Request-for-Proposal"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Request-for-Proposal&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/shivam151/Final-RFP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Final-RFP&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/shivam151/discovery-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=discovery-backend&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/shivam151/Discovery_Usecase"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Discovery_Usecase&theme=tokyonight&hide_border=true" /></a>
-</p>
-
-</details>
-
-<details>
 <summary><b>🌐 Full-Stack & Portfolio</b></summary>
 <br>
 
