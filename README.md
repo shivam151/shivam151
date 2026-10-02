@@ -187,14 +187,14 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam151&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://ghchart.rshah.org/36BCF7/shivam151" width="100%" alt="Contribution chart" />
 </p>
 
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam151&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=shivam151" />
 </p>
 </details>
 
