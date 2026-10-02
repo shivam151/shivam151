@@ -19,11 +19,12 @@
 
 <!-- ===== QUICK NAV ===== -->
 <p align="center">
-  <a href="#-about-me"><b>About</b></a> &nbsp;•&nbsp;
-  <a href="#tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
-  <a href="#-featured-projects"><b>Projects</b></a> &nbsp;•&nbsp;
-  <a href="#-github-analytics"><b>Analytics</b></a> &nbsp;•&nbsp;
-  <a href="#-lets-connect"><b>Connect</b></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/-About-203a43?style=flat-square" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/-Tech%20Stack-203a43?style=flat-square" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/-Projects-203a43?style=flat-square" /></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/-Analytics-203a43?style=flat-square" /></a>
+  <a href="#-play-with-me"><img src="https://img.shields.io/badge/-Play%20With%20Me-36BCF7?style=flat-square" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/-Connect-203a43?style=flat-square" /></a>
 </p>
 
 ---
@@ -200,7 +201,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam151&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shivam151&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -224,6 +225,49 @@ me.say_hi()
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam151/shivam151/output/github-contribution-grid-snake-dark.svg" />
     <img alt="snake eating contributions" src="https://raw.githubusercontent.com/shivam151/shivam151/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 🎮 Play With Me
+
+<p align="center"><i>Everything here is a click away 👇</i></p>
+
+<details>
+<summary><b>🎲 Get to know me (click to reveal)</b></summary>
+<br>
+
+- 🎯 **Right now:** building agentic RAG systems with LangGraph & MCP
+- 🌱 **Learning:** multi-agent orchestration, evaluation of LLM apps
+- ⚡ **Ask me about:** RAG, vector DBs, FastAPI, Docker, EDA
+- 🎧 **Fun fact:** I turn messy data into stories for a living
+
+</details>
+
+<details>
+<summary><b>🧪 Pick a topic and chat about it</b></summary>
+<br>
+
+| I want to talk about | Start the conversation |
+|---|---|
+| 🤖 RAG & LLM agents | [Open a discussion](https://github.com/shivam151/shivam151/issues/new?title=RAG%20%26%20LLM%20chat&body=Hi%20Shivam%2C%20I'd%20love%20to%20talk%20about...) |
+| 📊 Data science / ML | [Open a discussion](https://github.com/shivam151/shivam151/issues/new?title=Data%20Science%20chat&body=Hi%20Shivam%2C%20I'd%20love%20to%20talk%20about...) |
+| 🤝 Collaboration | [Send a proposal](https://github.com/shivam151/shivam151/issues/new?title=Collaboration%20idea&body=Hi%20Shivam%2C%20here%20is%20my%20idea...) |
+
+</details>
+
+<details>
+<summary><b>👋 Sign my guestbook</b></summary>
+<br>
+
+Leave a note — it opens a pre-filled GitHub issue:
+
+<a href="https://github.com/shivam151/shivam151/issues/new?title=Guestbook%20%F0%9F%91%8B&body=Name%3A%20%0AFrom%3A%20%0AMessage%3A%20"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F-Sign%20the%20guestbook-36BCF7?style=for-the-badge" /></a>
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/shivam151/shivam151"><img src="https://img.shields.io/badge/%E2%AD%90-Star%20this%20profile-yellow?style=for-the-badge" /></a>
 </p>
 
 ---
