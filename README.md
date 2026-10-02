@@ -1,8 +1,3 @@
-<!-- ===== ANIMATED WAVE BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shivam%20Katiyar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Data%20Scientist%20%7C%20GenAI%20%26%20ML&descAlignY=58&descSize=20" />
-</p>
-
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://new-portfoilo-theta.vercel.app/">
