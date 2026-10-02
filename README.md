@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring framework**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-frontend-one-tau.vercel.app/](https://portfolio-frontend-one-tau.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://new-portfoilo-theta.vercel.app/](https://new-portfoilo-theta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
