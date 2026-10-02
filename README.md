@@ -17,6 +17,15 @@
   <img src="https://komarev.com/ghpvc/?username=shivam151&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 </p>
 
+<!-- ===== QUICK NAV ===== -->
+<p align="center">
+  <a href="#-about-me"><b>About</b></a> &nbsp;•&nbsp;
+  <a href="#tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-featured-projects"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-github-analytics"><b>Analytics</b></a> &nbsp;•&nbsp;
+  <a href="#-lets-connect"><b>Connect</b></a>
+</p>
+
 ---
 
 <!-- ===== ABOUT ME ===== -->
@@ -48,6 +57,8 @@ me.say_hi()
 <br clear="right"/>
 
 ---
+
+<a id="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -132,6 +143,55 @@ me.say_hi()
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center"><i>👇 Click a card to open the repo, or expand a category</i></p>
+
+<details open>
+<summary><b>🤖 GenAI, RAG & Agents</b></summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/shivam151/Agentic-RAG-Langchain"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Agentic-RAG-Langchain&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/Langgraph-Resume-Backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Langgraph-Resume-Backend&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/mcp-chat-Assistant-using-Groq"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=mcp-chat-Assistant-using-Groq&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/mcp-custom-langchain"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=mcp-custom-langchain&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>📑 Enterprise AI (RFP & Discovery)</b></summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/shivam151/Request-for-Proposal"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Request-for-Proposal&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/Final-RFP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Final-RFP&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/discovery-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=discovery-backend&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/Discovery_Usecase"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=Discovery_Usecase&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack & Portfolio</b></summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/shivam151/NewPortfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=NewPortfolio&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/new-portfolio-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=new-portfolio-backend&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/capstone-frontend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=capstone-frontend&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/shivam151/presentation_frontend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam151&repo=presentation_frontend&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/shivam151?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-%E2%86%92-36BCF7?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -164,6 +224,19 @@ me.say_hi()
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam151/shivam151/output/github-contribution-grid-snake-dark.svg" />
     <img alt="snake eating contributions" src="https://raw.githubusercontent.com/shivam151/shivam151/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center"><i>Open to GenAI / ML projects and collaborations — pick a channel 👇</i></p>
+
+<p align="center">
+  <a href="https://new-portfoilo-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shivam-katiyar-3286a7220/"><img src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivam.katiyar@yash.com?subject=Hello%20Shivam"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shivam151?tab=followers"><img src="https://img.shields.io/github/followers/shivam151?label=Follow&style=for-the-badge&logo=github&color=2c5364" /></a>
 </p>
 
 ---
